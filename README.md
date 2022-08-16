@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AWS SysOps and Developer Certifications**
 
-- 💬 Ask me about **AWS; Git; Jenkins; Kubernetes; Docker; ShellScript; Python; Terraform; NewRelic. Zabbix and Grafana.**
+- 💬 Ask me about **AWS; Jenkins; Kubernetes; Docker; Python; Terraform; NewRelic. Zabbix and Grafana.**
 
 - 📫 How to reach me **vinicius.cantilio@gmail.com**
 
