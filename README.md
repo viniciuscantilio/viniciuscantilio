@@ -1,4 +1,4 @@
-h1 align="center"> Hi there, I'm Vinicius Cantilio :man_technologist: <h1>
+<h1 align="center"> Hi there, I'm Vinicius Cantilio :man_technologist: <h1>
 <p align="center">
     <a href="mailto:vinicius.cantilio@gmail.com" style="text-decoration: none">
         <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white">
